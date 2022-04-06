@@ -10,7 +10,7 @@ const Home = () => {
         </h2>
         <CardGroup>
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/Flight.jpg" style={{ minHeight: '228px' }}/>
+            <Card.Img variant="top" src="./assets/flight.jpg" style={{ minHeight: '228px' }}/>
             <Card.Body>
               <Card.Title>Flight</Card.Title>
               <Card.Text>
