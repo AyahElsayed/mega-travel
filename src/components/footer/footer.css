@@ -10,6 +10,13 @@
   display: inline-block;
   margin: 10px;
 }
+.contact h1{
+  color: #0887d5;
+}
+.contact h1:hover{
+  color: #eb7022;
+  cursor: pointer;
+}
 
 .iconStyle{
   font-size: 32px;
