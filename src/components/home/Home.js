@@ -10,7 +10,7 @@ const Home = () => {
         </h2>
         <CardGroup>
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/Flight.jpg" />
+            <Card.Img variant="top" src="./assets/Flight.jpg" style={{ minHeight: '228px' }}/>
             <Card.Body>
               <Card.Title>Flight</Card.Title>
               <Card.Text>
@@ -21,7 +21,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/tours.jpg" />
+            <Card.Img variant="top" src="./assets/tours.jpg" style={{ minHeight: '228px' }} />
             <Card.Body>
               <Card.Title>Tours</Card.Title>
               <Card.Text>
@@ -31,7 +31,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/domestic.jpg" />
+            <Card.Img variant="top" src="./assets/domestic.jpg" style={{ minHeight: '228px' }}/>
             <Card.Body>
               <Card.Title>Domestic tourism </Card.Title>
               <Card.Text>
@@ -41,7 +41,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/foreign.jpg" />
+            <Card.Img variant="top" src="./assets/foreign.jpg" style={{ minHeight: '228px' }} />
             <Card.Body>
               <Card.Title>Foreign Tourism </Card.Title>
               <Card.Text>
@@ -60,7 +60,7 @@ const Home = () => {
         </h2>
         <CardGroup>
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/Honeymoon.webp" />
+            <Card.Img variant="top" src="./assets/Honeymoon.webp" style={{ minHeight: '297px' }} />
             <Card.Body>
               <Card.Title>Honey moon Offers</Card.Title>
               <Card.Text>
@@ -71,7 +71,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/Sham El Naseem.jpg" />
+            <Card.Img variant="top" src="./assets/Sham El Naseem.jpg" style={{ minHeight: '297px' }}/>
             <Card.Body>
               <Card.Title>Sham El Naseem offers</Card.Title>
               <Card.Text>
@@ -82,7 +82,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/vip.jpg" />
+            <Card.Img variant="top" src="./assets/vip.jpg" style={{ minHeight: '297px' }}/>
             <Card.Body>
               <Card.Title>VIP offers</Card.Title>
               <Card.Text>

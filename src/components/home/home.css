@@ -23,7 +23,8 @@ h2 span:hover {
 }
 
 .card-img-top {
-  height: -webkit-fill-available;
+  
+
 }
 .imageReview{
   border-radius: 50% !important;
