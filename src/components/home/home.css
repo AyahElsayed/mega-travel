@@ -1,0 +1,28 @@
+.servicesTitle{
+  text-align: center;
+  margin: 20px;
+  padding: 21px;
+
+}
+h2 span {
+  border-bottom: 1px solid #ea7021;
+  padding-bottom: 13px;
+
+}
+.card{
+  margin: 3px;
+    padding: 9px;
+}
+
+.card-img-top {
+  height: -webkit-fill-available;
+}
+.imageReview{
+  border-radius: 50% !important;
+  width:35% !important
+}
+.reviews{
+  display: flex;
+      justify-content: space-between;
+
+}
