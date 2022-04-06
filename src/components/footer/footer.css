@@ -1,0 +1,17 @@
+.contact{
+  margin-top: 45px;
+  text-align: center;
+  color: #fff;
+  background: #212529;
+  padding-top: 20px;
+}
+
+.contact span{
+  display: inline-block;
+  margin: 10px;
+}
+
+.iconStyle{
+  font-size: 32px;
+  margin: 10px;
+}

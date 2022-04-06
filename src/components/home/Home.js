@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, Button, CardGroup, Carousel } from 'react-bootstrap'
+import { Card, Button, CardGroup } from 'react-bootstrap'
 import './home.css'
 const Home = () => {
   return (
