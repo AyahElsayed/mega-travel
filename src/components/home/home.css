@@ -37,4 +37,5 @@ h2 span:hover {
 }
 .offersImg{
   min-height: 297px;
+  max-height: 298px;
 }
