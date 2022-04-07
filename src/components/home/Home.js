@@ -10,7 +10,7 @@ const Home = () => {
         </h2>
         <CardGroup>
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/flight.jpg" style={{ minHeight: '228px' }}/>
+            <Card.Img variant="top" src="./assets/flight1.jpg" className="servicesImg"/>
             <Card.Body>
               <Card.Title>Flight</Card.Title>
               <Card.Text>
@@ -21,7 +21,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/tours.jpg" style={{ minHeight: '228px' }} />
+            <Card.Img variant="top" src="./assets/tours.jpg" className="servicesImg" />
             <Card.Body>
               <Card.Title>Tours</Card.Title>
               <Card.Text>
@@ -31,7 +31,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/domestic.jpg" style={{ minHeight: '228px' }}/>
+            <Card.Img variant="top" src="./assets/domestic.jpg" className="servicesImg"/>
             <Card.Body>
               <Card.Title>Domestic tourism </Card.Title>
               <Card.Text>
@@ -41,7 +41,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/foreign.jpg" style={{ minHeight: '228px' }} />
+            <Card.Img variant="top" src="./assets/foreign.jpg" className="servicesImg" />
             <Card.Body>
               <Card.Title>Foreign Tourism </Card.Title>
               <Card.Text>

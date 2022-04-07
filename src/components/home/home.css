@@ -32,3 +32,6 @@ h2 span:hover {
       justify-content: space-between;
 
 }
+.servicesImg{
+  min-height: 228px;
+}
