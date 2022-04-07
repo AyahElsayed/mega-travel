@@ -60,7 +60,7 @@ const Home = () => {
         </h2>
         <CardGroup>
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/Honeymoon.webp" style={{ minHeight: '297px' }} />
+            <Card.Img variant="top" src="./assets/Honeymoon.webp" className="offersImg" />
             <Card.Body>
               <Card.Title>Honey moon Offers</Card.Title>
               <Card.Text>
@@ -71,7 +71,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/Sham El Naseem.jpg" style={{ minHeight: '297px' }}/>
+            <Card.Img variant="top" src="./assets/Sham El Naseem.jpg" className="offersImg"/>
             <Card.Body>
               <Card.Title>Sham El Naseem offers</Card.Title>
               <Card.Text>
@@ -82,7 +82,7 @@ const Home = () => {
           </Card>
 
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="./assets/vip.jpg" style={{ minHeight: '297px' }}/>
+            <Card.Img variant="top" src="./assets/vip.jpg" className="offersImg"/>
             <Card.Body>
               <Card.Title>VIP offers</Card.Title>
               <Card.Text>
